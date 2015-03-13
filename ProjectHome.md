@@ -1,0 +1,1 @@
+This program emulates LC4 using all 29 instructions following guidelines in PennSim documentation.
